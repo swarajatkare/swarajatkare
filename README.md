@@ -1,3 +1,5 @@
+![Black and White Simple Motivational Quote LinkedIn Banner](https://github.com/user-attachments/assets/297df02e-e4ea-41cc-ab59-eb715453d885)
+
 ![image](https://github.com/user-attachments/assets/589e3b19-5346-414f-be4a-a521274a199f)
 
 <h1 align="center">Hey.........I hope you doing well! 👋</h1>
