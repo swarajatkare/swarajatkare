@@ -47,7 +47,7 @@
 ###
 
 <div align="right">
-  <img height="150" src="https://camo.githubusercontent.com/b3e87433c636445978739d39573949c9096d80409b8eb49fd8635a414f85e7e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
+  <img height="250" src="https://camo.githubusercontent.com/b3e87433c636445978739d39573949c9096d80409b8eb49fd8635a414f85e7e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
 </div>
 
 ###
@@ -59,7 +59,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=swarajatkare&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=swarajatkare&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
