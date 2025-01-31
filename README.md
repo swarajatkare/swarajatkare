@@ -16,40 +16,13 @@
 ## 🚀 Tech Stack & Tools:
 
 <p align="center">
+  <img src="https://github.com/your-github-username/your-repo/blob/main/assets/argocd-logo.png" title="ArgoCD" width="100" height="100"/> 
+  <img src="https://github.com/your-github-username/your-repo/blob/main/assets/docker.gif" title="Docker Swarm" width="100" height="100"/> 
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" title="AWS" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" title="Kubernetes" width="50" height="50"/> 
-  <img src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" title="Docker" width="50" height="50"/> 
   <img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" title="Terraform" width="50" height="50"/> 
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" title="Jenkins" width="50" height="50"/> 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" title="GitHub" width="50" height="50"/> 
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" title="CI/CD" width="50" height="50"/> 
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" title="Linux" width="50" height="50"/> 
-</p>
-
----
-
-## 💻 DevOps Projects:
-
-🔹 **[🚀 Automated Scalable Deployments on AWS EC2 with Kubernetes & ArgoCD](https://github.com/your-repo-link)**  
-🔹 **[⚙️ CI/CD Pipeline for Pet Clinic App using Jenkins & Kubernetes](https://github.com/your-repo-link)**  
-🔹 **[🛒 E-commerce Three-Tier App Deployment on AWS EKS](https://github.com/your-repo-link)**  
-
-_(More coming soon! 🚀)_  
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
@@ -57,7 +30,7 @@ _(More coming soon! 🚀)_
 ## 🐍 Contribution Snake Animation:
 
 <p align="center">
-  <img src="https://github.com/your-github-username/swarajatkare/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 ---
