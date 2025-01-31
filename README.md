@@ -1,89 +1,46 @@
-![Black and White Simple Motivational Quote LinkedIn Banner](https://github.com/user-attachments/assets/297df02e-e4ea-41cc-ab59-eb715453d885)
+# Hi there! 👋 I'm Swaraj 🚀
 
-<h1 align="center">Hey.........I hope you doing well! 👋</h1>
+💡 **DevOps Engineer | Cloud Enthusiast | Automation Geek**  
 
-###
+🔹 Passionate about bridging the gap between Development & Operations.  
+🔹 Automating deployments, optimizing CI/CD pipelines, and scaling cloud-native applications.  
+🔹 Hands-on with Kubernetes, Docker, AWS, ArgoCD, Terraform, and monitoring stacks.  
+🔹 Contributor to open-source projects & always up for a tech discussion!  
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🛠️ Tech Stack & Tools:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=flat&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=flat&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
 
-<p align="left">I'm Swaraj Atkare and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)<br><br>- 🤝 I’m looking for help with DevOps<br>- 📫 How to reach me - swarajatkare99@gmail.com</p>
+---
 
-###
+## 🚀 My DevOps Projects:
+🔹 **[Automated Scalable Deployments on AWS EC2 with Kubernetes & ArgoCD](https://github.com/your-repo-link)**  
+🔹 **[CI/CD Pipeline for Pet Clinic App using Jenkins & Kubernetes](https://github.com/your-repo-link)**  
+🔹 **[E-commerce Three-Tier App Deployment on AWS EKS](https://github.com/your-repo-link)**  
 
-<h3 align="left">🛠 Language and tools</h3>
+*(More coming soon! 🚀)*  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
-</div>
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
-###
+---
 
-<div align="right">
-  <img height="200" src="https://camo.githubusercontent.com/b3e87433c636445978739d39573949c9096d80409b8eb49fd8635a414f85e7e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
-</div>
+## 📢 Let's Connect:
+🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🐦 [Twitter](https://twitter.com/your-handle)  
+📧 **Reach out:** your-email@example.com  
 
-###
+💡 _Always open to collaboration, discussions, and new opportunities!_ 🚀  
 
-<br clear="both">
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=swarajatkare&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/swaraj-atkare-devops" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="swarajatkare99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-</div>
-
-###
-
-<p align="center">Thanks for watching😊</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/swarajatkare/count.svg?"  />
-</div>
-
-###
