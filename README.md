@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
 </div>
 
-###
+
 
 <div align="right">
   <img height="250" src="https://camo.githubusercontent.com/b3e87433c636445978739d39573949c9096d80409b8eb49fd8635a414f85e7e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
