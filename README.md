@@ -4,7 +4,7 @@
 
 ###
 
-##<h3 align="left"> 👩‍💻  About Me</h3>
+<h3 align="left"> 👩‍💻  About Me</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-## 💻 DevOps Projects:
+<h3 align="left"> 💻 DevOps Projects:</h3>
 
 🔹 **[🚀 Automated Scalable Deployments on AWS EC2 with Kubernetes & ArgoCD](https://github.com/your-repo-link)**  
 🔹 **[⚙️ CI/CD Pipeline for Pet Clinic App using Jenkins & Kubernetes](https://github.com/your-repo-link)**  
@@ -66,7 +66,7 @@ _(More coming soon! 🚀)_
 
 <br clear="both">
 
-## 📊 GitHub Stats :
+<h3 align="left"> 📊 GitHub Stats :</h3>
 
 ###
 
