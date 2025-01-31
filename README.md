@@ -54,9 +54,9 @@
 
 <h3 align="left"> 💻 DevOps Projects:</h3>
 
-🔹 **[🚀 Automated Scalable Deployments on AWS EC2 with Kubernetes & ArgoCD](https://github.com/your-repo-link)**  
-🔹 **[⚙️ CI/CD Pipeline for Pet Clinic App using Jenkins & Kubernetes](https://github.com/your-repo-link)**  
-🔹 **[🛒 E-commerce Three-Tier App Deployment on AWS EKS](https://github.com/your-repo-link)**  
+🔹 **[🚀 Automated Scalable Deployments on AWS EC2 with Kubernetes & ArgoCD]([https://github.com/your-repo-link](https://github.com/swarajatkare/Kubernetes-project-repo.git))**  
+🔹 **[⚙️ CI/CD Pipeline for Pet Clinic App using Jenkins & Kubernetes]([https://github.com/your-repo-link](https://github.com/swarajatkare/Jenkins-Petclinic-Project.git))**  
+🔹 **[🛒 E-commerce Three-Tier App Deployment on AWS EKS]([https://github.com/your-repo-link](https://github.com/swarajatkare/TWSThreeTierAppChallenge.git))**  
 
 _(For more please check my repo 🧑🏻‍💻)_
 _(More coming soon! 🚀)_  
