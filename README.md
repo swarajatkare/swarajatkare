@@ -58,6 +58,7 @@
 🔹 **[⚙️ CI/CD Pipeline for Pet Clinic App using Jenkins & Kubernetes](https://github.com/your-repo-link)**  
 🔹 **[🛒 E-commerce Three-Tier App Deployment on AWS EKS](https://github.com/your-repo-link)**  
 
+_(For more please check my repo 🧑🏻‍💻)_
 _(More coming soon! 🚀)_  
 
 
