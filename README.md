@@ -56,6 +56,14 @@ _(More coming soon! 🚀)_
 
 ---
 
+## 🐍 Contribution Snake Animation:
+
+<p align="center">
+  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+---
+
 ## 📢 Let's Connect:
 
 <p align="center">
