@@ -16,16 +16,14 @@
 ## 🚀 Tech Stack & Tools:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" title="Terraform" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" title="Grafana" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/> 
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" title="AWS" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" title="Kubernetes" width="50" height="50"/> 
+  <img src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" title="Docker" width="50" height="50"/> 
+  <img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" title="Terraform" width="50" height="50"/> 
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" title="Jenkins" width="50" height="50"/> 
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" title="GitHub" width="50" height="50"/> 
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" title="CI/CD" width="50" height="50"/> 
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" title="Linux" width="50" height="50"/> 
 </p>
 
 ---
@@ -59,7 +57,7 @@ _(More coming soon! 🚀)_
 ## 🐍 Contribution Snake Animation:
 
 <p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/your-github-username/swarajatkare/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 ---
