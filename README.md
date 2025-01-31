@@ -66,7 +66,7 @@ _(More coming soon! 🚀)_
 
 <br clear="both">
 
-<h3 align="left">📊 GitHub Stats :</h3>
+## 📊 GitHub Stats :
 
 ###
 
