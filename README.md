@@ -1,110 +1,160 @@
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshops&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshops" /> </p>
+
+
+<h1 align="center">Hi , I'm Swaraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ -->
+
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Swaraj+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
+
 ![Black and White Simple Motivational Quote LinkedIn Banner](https://github.com/user-attachments/assets/297df02e-e4ea-41cc-ab59-eb715453d885)
+ 
+<p align="left" >
+  <samp>
+    Hey, My name is <em> Swaraj Atkare </em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)<br><br>💡 **DevOps Engineer | Cloud Enthusiast | Automation Geek** 🙅🏻<br><br>- 🤝 I’m looking for help with DevOps.<br>- 🚀 Hands-on with Kubernetes, Docker, AWS, Terraform, ArgoCD, Jenkins & Monitoring stacks.<br>- 💻 Contributor to open-source projects & always up for a tech discussion!<br>- 📫 How to reach me - swarajatkare99@gmail.com
+  </samp>
+  <br/>
+</p>
 
-<h1 align="center">Hey.........I hope you doing well! 👋</h1>
 
-###
+<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=swarajatkare&theme=algolia" alt="swarajatkare" /></p>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="GitHub Streak" /></a> -->
 
-<h3 align="left"> 👩‍💻  About Me</h3>
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
-###
 
-<p align="left">I'm Swaraj Atkare and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)<br><br>💡 **DevOps Engineer | Cloud Enthusiast | Automation Geek** 🙅🏻<br><br>- 🤝 I’m looking for help with DevOps.<br>- 🚀 Hands-on with Kubernetes, Docker, AWS, Terraform, ArgoCD, Jenkins & Monitoring stacks.<br>- 💻 Contributor to open-source projects & always up for a tech discussion!<br>- 📫 How to reach me - swarajatkare99@gmail.com</p>
+## :zap: Skills
 
-###
+   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="70" />
+  </a>
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"  height="70" />
+  </a> 
+  
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="80" />
+  </a>
+  <a href="https://helm.sh/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
+  </a> 
+  <a href="https://argoproj.github.io/cd/" target="_blank" >
+    <img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png"  height="80" />
+  </a>
+ 
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
+  </a>
+  
+ </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" />
+  </a>
+ </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+  </a>
+  
+  
+  ### Monitoring
+  
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
+  </a>
+  
+</p>
+<!--
+  ## Hashnode Blogs (Expand to View)
+<!--
+<details>
+  <summary><b>Tap Me</b></summary>
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/get-the-latest-kubernetes-cheat-sheet-for-simplifying-container-orchestration&large=true&theme=dark"/>
+ <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/maximizing-productivity-with-github-actions&large=true&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
+ 
+<!--
+ <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
+ 
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/create-an-aws-code-pipeline-with-aws-code-commit-code-build-code-deploy-tutorial&large=false&theme=dark"/>
+  -->
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
-</div>
-
-###
-
-<div align="right">
-  <img height="250" src="https://camo.githubusercontent.com/b3e87433c636445978739d39573949c9096d80409b8eb49fd8635a414f85e7e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e676966"  />
-</div>
+</p>
+  </details>
 
 ###
 
 <h3 align="left"> 💻 DevOps Projects:</h3>
 
-🔹 **[🚀 Automated Scalable Deployments on AWS EC2 with Kubernetes & ArgoCD]([https://github.com/your-repo-link](https://github.com/swarajatkare/Kubernetes-project-repo.git))**  
+<em>🔹 **[🚀 Automated Scalable Deployments on AWS EC2 with Kubernetes & ArgoCD]([https://github.com/your-repo-link](https://github.com/swarajatkare/Kubernetes-project-repo.git))**  
 🔹 **[⚙️ CI/CD Pipeline for Pet Clinic App using Jenkins & Kubernetes]([https://github.com/your-repo-link](https://github.com/swarajatkare/Jenkins-Petclinic-Project.git))**  
 🔹 **[🛒 E-commerce Three-Tier App Deployment on AWS EKS]([https://github.com/your-repo-link](https://github.com/swarajatkare/TWSThreeTierAppChallenge.git))**  
 
 _(For more please check my repo 🧑🏻‍💻)_
-_(More coming soon! 🚀)_  
-
-
-###
-
-<br clear="both">
-
-<h3 align="left"> 📊 GitHub Stats :</h3>
+_(More coming soon! 🚀)_  </em>
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarajatkare&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
+  
+  ## 📊 Github Stats (Expand to View) 
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swarajatkare&theme=2077" alt="swarajatkare" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarajatkare&theme=tokyonight" alt="GitHub Streak">
-</p>
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajatkare&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
 
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swarajatkare&theme=aura" alt="swarajatkare" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swarajatkare&theme=aura" alt="swarajatkare" /></p>
+</details> 
 
-###
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swarajatkare&theme=great_gatsby" alt="swarajatkare" /></p>
+ 
 
-<br clear="both">
+</details>
 
+ 
+   
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+   
+## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-mashidkar/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Hashnode](https://rushikesh-mashidkar.hashnode.dev/) 🌐 <br>
+  ⦿ Shoot Me an [Email](mailto:rishikeshmashidkar@gmail.com) 💌 <br>
+<!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
+
+ -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/swaraj-atkare-devops" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="swarajatkare99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+
+### Show some ❤️ by starring some of the repositories!
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
+
+
+
+<!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
+   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
+ -->
 
-###
 
-<p align="center">Thanks for watching😊</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/swarajatkare/count.svg?"  />
-</div>
-
-###
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/swarajatkare/count.svg)
