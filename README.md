@@ -1,4 +1,4 @@
-<!- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajatkare&label=Profile%20views&color=0e75b6&style=flat" alt="swarajatkare" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajatkare&label=Profile%20views&color=0e75b6&style=flat" alt="swarajatkare" /> </p>
 
 
 <h1 align="center">Hi , I'm Swaraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -17,7 +17,7 @@
 
 
 <p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=swarajatkare&theme=algolia" alt="swarajatkare" /></p>
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="GitHub Streak" /></a> -->
+<!- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=swarajatkare&theme=algolia" alt="GitHub Streak" /></a> -->
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
