@@ -20,7 +20,7 @@
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=swarajatkare&theme=algolia" alt="GitHub Streak" /></a> -->
 
 
-<img align='right' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
+<img align='right' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500">
 
 
 ## :zap: Skills
