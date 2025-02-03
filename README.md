@@ -16,7 +16,7 @@
 </p>
 
 
-<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="rishikeshops" /></p>
+<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=swarajatkare&theme=algolia" alt="swarajatkare" /></p>
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="GitHub Streak" /></a> -->
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
