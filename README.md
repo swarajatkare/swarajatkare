@@ -104,7 +104,7 @@
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikeshops&theme=aura" alt="rishikeshops" 
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swarajatkare&theme=aura" alt="swarajatkare" 
   <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikeshops&theme=aura" alt="rishikeshops" /></p>
 </details> 
 
