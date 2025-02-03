@@ -105,14 +105,14 @@
   <summary><b>📈 My Top Languages</b></summary>
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swarajatkare&theme=aura" alt="swarajatkare" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikeshops&theme=aura" alt="rishikeshops" /></p>
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swarajatkare&theme=aura" alt="swarajatkare" /></p>
 </details> 
 
   </details>
     <details>
   <summary><b>📈 My Contributions</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikeshops&theme=great_gatsby" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swarajatkare&theme=great_gatsby" alt="swarajatkare" /></p>
  
 
 </details>
@@ -143,4 +143,4 @@
 
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/rishikeshops/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/swarajatkare/count.svg)
