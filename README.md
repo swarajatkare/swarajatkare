@@ -71,9 +71,7 @@
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
   </a>
-  <a href="https://www.dynatrace.com/" target="_blank" >
-    <img src="https://github.com/RishikeshOps/RishikeshOps/blob/2cc25b2346695d90429b3734f35e1705672369b0/Dynatrace_Logo_color_negative_vertical.png" height="80" />
-  </a>
+  
 </p>
 <!--
   ## Hashnode Blogs (Expand to View)
@@ -99,7 +97,7 @@
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikeshops&theme=2077" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swarajatkare&theme=2077" alt="swarajatkare" /></p>
 
 </details>
 
