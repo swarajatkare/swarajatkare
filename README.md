@@ -111,7 +111,7 @@ _(More coming soon! 🚀)_  </em>
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swarajatkare&theme=2077" alt="swarajatkare" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swarajatkare&theme=2077" alt="swarajatkare" /></p>
 
 </details>
 
@@ -137,9 +137,9 @@ _(More coming soon! 🚀)_  </em>
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-mashidkar/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Hashnode](https://rushikesh-mashidkar.hashnode.dev/) 🌐 <br>
-  ⦿ Shoot Me an [Email](mailto:rishikeshmashidkar@gmail.com) 💌 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/swaraj-atkare-devops) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Hashnode](https://techwithswaraj.hashnode.dev/) 🌐 <br>
+  ⦿ Shoot Me an [Email](mailto:swarajatkare99@gmail.com) 💌 <br>
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
  -->
