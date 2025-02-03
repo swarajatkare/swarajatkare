@@ -5,6 +5,8 @@
  -->
 
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Swaraj+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
+
+![Black and White Simple Motivational Quote LinkedIn Banner](https://github.com/user-attachments/assets/297df02e-e4ea-41cc-ab59-eb715453d885)
  
 <p align="center" >
   <samp>
