@@ -109,7 +109,7 @@ _(More coming soon! 🚀)_  </em>
   ## 📊 Github Stats (Expand to View) 
   
  <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary>💻 GitHub Profile Stats</summary>
    
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swarajatkare&theme=2077" alt="swarajatkare" /></p>
 
