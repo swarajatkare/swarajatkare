@@ -143,6 +143,7 @@ _(More coming soon! 🚀)_  </samp>
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/swaraj-atkare-devops) 👨🏻‍💻 <br>
   ⦿ Follow me on [Hashnode](https://techwithswaraj.hashnode.dev/) 🌐 <br>
+  ⦿ Follow me on [Medium](https://medium.com/@swarajatkare) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:swarajatkare99@gmail.com) 💌 <br>
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
