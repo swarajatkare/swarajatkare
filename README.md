@@ -130,6 +130,9 @@ _(More coming soon! 🚀)_  </samp>
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swarajatkare&theme=great_gatsby" alt="swarajatkare" /></p>
  
 
+  <a href="https://github.com/swarajatkare/github-readme-activity-graph"><img alt="swarajatkare's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=swarajatkare&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 </details>
 
  
