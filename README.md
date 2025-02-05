@@ -51,7 +51,7 @@
   </a>
    </a>
     <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
+    <img src="https://github.com/DevMadhup/DevMadhup/blob/main/jenkins.gif" height="80" />
   </a>
   
  </a>
@@ -63,9 +63,7 @@
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
 
-  <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-  </a>
+  
   
   
   ### Monitoring
