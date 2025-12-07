@@ -8,6 +8,8 @@
 
 ![Black and White Simple Motivational Quote LinkedIn Banner](https://github.com/user-attachments/assets/297df02e-e4ea-41cc-ab59-eb715453d885)
 ![Uploading Add a subheading.png…](https://github.com/user-attachments/assets/297df02e-e4ea-41cc-ab59-eb715453d885)
+![Uploading Add a subheading.png…]()
+"C:\Users\swara\Downloads\Add a subheading.png"
 
  
 <p align="left" >
